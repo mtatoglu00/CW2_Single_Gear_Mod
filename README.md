@@ -9,5 +9,5 @@ You probably don't need a manual.
 
 BOM:
 
-- Standard 5mm Bontech shaft
+- Standard 3mm Bontech shaft
 - 2 needle bearings 3 x 5 x 7 mm
